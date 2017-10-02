@@ -8,3 +8,5 @@ I resolved the conflict!
 Edited again in Master branch!
 Hi from master
 
+New branch
+
