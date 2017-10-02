@@ -1,3 +1,5 @@
 # GitHubExercise
 second repo exercise
-This will make a conflict!
+
+Repo is made for exercise.
+I resolved the conflict!
